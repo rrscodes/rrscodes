@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrscodes&label=Profile%20views&color=0e75b6&style=flat" alt="rrscodes" /> </p>
 
-- 🔭 I’m currently working on [Simpl](https://apps.apple.com/in/app/simpl-pay-later/id1053447662)
+- 🔭 I’m currently working on [Simpl - Buy Now Pay Later App](https://apps.apple.com/in/app/simpl-pay-later/id1053447662)
 
 - 🌱 I’m currently learning **GoLang, Solana**
 
