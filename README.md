@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">Highly motivated software engineer with in-depth knowledge of Mobile & Web development. Have bachelor's degree in Computer Science and 5+ years of work experience in innovating software designs, testing and coding as well as debugging programs and troubleshooting and augmenting the company’s reputation.</h3>
+<h3 align="center">Highly motivated software engineer with in-depth knowledge of Mobile & Web development. Have bachelor's degree in Computer Science and 5+ years of work experience in innovating software designs, testing and coding as well as debugging programs and troubleshooting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrscodes&label=Profile%20views&color=0e75b6&style=flat" alt="rrscodes" /> </p>
 
