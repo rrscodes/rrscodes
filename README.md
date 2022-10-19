@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Simpl - Buy Now Pay Later App](https://apps.apple.com/in/app/simpl-pay-later/id1053447662)
 
-- 🌱 I’m currently learning **GoLang, Solana**
+- 🌱 I’m currently learning **GoLang, Rust**
 
 - 💬 Ask me about **JS, react-native, reactJS, nextJS**
 
