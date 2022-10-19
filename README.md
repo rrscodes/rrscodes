@@ -1,4 +1,4 @@
-<image src="https://media-exp1.licdn.com/dms/image/C4D03AQESPzrPyrsp6A/profile-displayphoto-shrink_200_200/0/1648577378805?e=2147483647&v=beta&t=jYadmzZRz65HXkZzm-t41l-yXBha-bH52ym9AQQR-FI" />
+<image src="https://media-exp1.licdn.com/dms/image/C4D03AQESPzrPyrsp6A/profile-displayphoto-shrink_200_200/0/1648577378805?e=2147483647&v=beta&t=jYadmzZRz65HXkZzm-t41l-yXBha-bH52ym9AQQR-FI" align="center" alt="Ravi Roshan Singh" style={align-self:center; border-radius:300} />
 <h1 align="center">Hello, I'm Roshan</h1>
 <h3 align="center">I am highly motivated full-stack software engineer with in-depth knowledge of Mobile & Web Application development. Having bachelor's degree in Computer Science Engineering and 5+ years of professional work experience in software development majorly build cross platform apps using React Native.</h3>
 
