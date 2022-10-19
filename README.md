@@ -7,4 +7,4 @@
 
 - ❓ Ask me about **JavaScript, React-Native, ReactJS, NextJS, Svelte, NodeJs, ExpressJs**
 
-- ✉️ Reach me at **ravi.roshan04@gmail.com** | <a href="https://linkedin.com/in/roshansingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshansingh21" height="20" width="20" /></a>
+- ✉️ Reach me at **ravi.roshan04@gmail.com**   ||   <a href="https://linkedin.com/in/roshansingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshansingh21" height="20" width="20" /></a>
