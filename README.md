@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello, I'm Roshan</h1>
-<h3 align="center">I am highly motivated full-stack software engineer with in-depth knowledge of Mobile & Web Application development. Having bachelor's degree in Computer Science Engineering and 6+ years of professional work experience in software development majorly build cross platform apps using React Native.</h3>
+<h3 align="center">I am highly motivated Full-stack software engineer with in-depth knowledge of Mobile & Web Application development. Having bachelor's degree in Computer Science Engineering and 6+ years of professional work experience in software development majorly building cross platform apps using React Native.</h3>
 
-- 💼 I’m currently working as Senior Software Engineer and building [Simpl - Buy Now Pay Later App](https://apps.apple.com/in/app/simpl-pay-later/id1053447662)
+- 💼 I’m currently working as Engineering Manager at Validus Fintech and Modernizing Fund Administration for the digital age. 
 
 - 👨🏻‍💻 I’m currently learning **GoLang, Rust**
 
