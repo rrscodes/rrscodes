@@ -10,7 +10,7 @@
     </ul>
     <h2>💡 Why Work With Me?</h2>
     <ul>
-        <li>✅ 7+ Years of Hands-On Experience</li>
+        <li>✅ 8+ Years of Hands-On Experience</li>
         <li>✅ Proven Track Record with Startups & Enterprises</li>
         <li>✅ Scalable, High-Performance Code</li>
         <li>✅ Business-First Approach – I focus on ROI-driven development</li>
