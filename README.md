@@ -5,7 +5,7 @@
         <li><strong>React Native Development</strong> – Scalable, performant, and smooth mobile apps.</li>
         <li><strong>Full-Stack Development</strong> – Robust backend systems with Node.js & MongoDB.</li>
         <li><strong>Startup & Product Development</strong> – From idea to launch, I've built successful D2C, fintech, cloud kitchen, and healthtech products.</li>
-        <li><strong>Marketing Tech & Automation</strong> – AI-driven marketing strategies for better brand reach.</li>
+        <li><strong>Marketing Tech & Automation</strong> – Marketing strategies for better brand reach.</li>
         <li><strong>UI/UX Optimization</strong> – Designing sleek, user-friendly interfaces that convert.</li>
     </ul>
     <h2>💡 Why Work With Me?</h2>
