@@ -2,15 +2,15 @@
 <h1 align="center">Hello, I'm Roshan</h1>
     <h2>🔥 What I Do Best</h2>
     <ul>
-        <li><strong>React Native Development</strong> – Scalable, performant, and smooth mobile apps.</li>
-        <li><strong>Full-Stack Development</strong> – Robust backend systems with Node.js & MongoDB.</li>
-        <li><strong>Startup & Product Development</strong> – From idea to launch, I've built successful D2C, fintech, cloud kitchen, and healthtech products.</li>
+        <li><strong>React Native Development</strong> – Scalable, performant and smooth mobile apps.</li>
+        <li><strong>Full-Stack Development</strong> – Robust backend systems with React, Node.js & MongoDB / Postgresql.</li>
+        <li><strong>Startup & Product Development</strong> – From idea to launch, I've built successful D2C, fintech, cloud kitchen and healthtech products.</li>
         <li><strong>Marketing Tech & Automation</strong> – Marketing strategies for better brand reach.</li>
         <li><strong>UI/UX Optimization</strong> – Designing sleek, user-friendly interfaces that convert.</li>
     </ul>
     <h2>💡 Why Work With Me?</h2>
     <ul>
-        <li>✅ 8+ Years of Hands-On Experience</li>
+        <li>✅ 10+ Years of Hands-On Experience</li>
         <li>✅ Proven Track Record with Startups & Enterprises</li>
         <li>✅ Scalable, High-Performance Code</li>
         <li>✅ Business-First Approach – I focus on ROI-driven development</li>
